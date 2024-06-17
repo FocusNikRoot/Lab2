@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Backbutton
+id Nextbutton
+id imageView
+id name_text
+id pageText
+id recycler
+id species_text
+layout activity_image_item
+layout activity_main
+layout activity_name_item
+layout activity_species_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MobileLab2_2
+style Theme.MobileLab2_2
+xml backup_rules
+xml data_extraction_rules
